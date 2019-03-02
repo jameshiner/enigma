@@ -1,0 +1,22 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshiner/enigma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameshiner/enigma/issues"
+  },
+  "homepage": "https://github.com/jameshiner/enigma#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
