@@ -8,7 +8,8 @@
  * TODO: add plugboard to ui
  * TODO: fix drawing to highlight wires on letter click
  * TODO: show letter path through machine on type under output box?
- * TODO: optimize?
+ * TODO: optimize? instead of just checking if the string is exact same + 1, check for differences,
+ *       only convert those differences, then replace the indexes in the string that have changed
  *
  */
 
